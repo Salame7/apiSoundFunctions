@@ -30,7 +30,7 @@ La API **apiSoundFunctions** gestiona el monitoreo de sonido enviado por el mód
     ```sh
     npm install
     ```
-##Despliegue en AWS Lambda
+## Despliegue en AWS Lambda
 Para desplegar en AWS Lambda utilizando Serverless Framework:
 
 1. Instalar Serverless Framework:
